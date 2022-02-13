@@ -1,0 +1,47 @@
+*{   margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+body{
+    display:flex;
+text-decoration: none;
+}
+
+img{
+    width: 70%;
+   height: 100%;
+}
+input{
+    width: 200px;
+height: 20px;
+border-color: white;
+margin-bottom: 20px;
+color: grey;
+border-bottom-color: blue;
+
+}
+h1{
+    font-size: 40px;
+    padding-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+position: relative;
+
+top: 20%;
+right: 80%;
+
+color: #4d65c5;
+
+
+}
+input.submit
+{
+height: 30px;
+border-radius: 20px; 
+background-color:#4d65c5 ;
+color: black;
+
+
+}
