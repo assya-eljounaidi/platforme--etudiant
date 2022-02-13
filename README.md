@@ -1,1 +1,1 @@
-# platforme--tudiant
+# platforme--etudiant
